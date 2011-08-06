@@ -1,5 +1,7 @@
 /**
- * Select largest k elements in an array
+ * This algorithm uses a quicksort like partitioning to find the k biggest 
+ * elements in an array.
+ *
  * Expected runtime O(n + klog(k))
  */
 #include <iostream>
@@ -35,6 +37,7 @@ int partition (int *array, int l, int r, int pivot) {
   swap(&array[cur], &array[r]);
   return cur;
 }
+
 void kselect_ (int *array, int l, int r, int k) {
   if (l< r) {
     int pivot = selectPivotIndex(array, l, r);
