@@ -1,3 +1,52 @@
 Collection of interesting bits of code/algos
 
 May include spoilers to programming puzzles...
+
+Includes:
+  Algorithms
+  - Average image hash. Ruby
+  - Burrow-Wheeler transform. Ruby
+  - Edit distance. Python
+  - Hamming distance. Ruby
+  - Largest k elements selection. C++
+  - Prime Sieve. C
+  - Quicksort. C, js
+  - Selection sort. C
+  - sorted Grid Find. Ruby
+
+  Data structures
+  - bloomfilter. C++
+  - linked list. C
+  - Skiplist. Go
+  - Stack. C
+
+  Misc
+  - n-base conversion. C
+  - Directory path expansion. Ruby
+  
+  Golf
+  - Anagrams. Perl
+
+TODO:
+  Algorithms:
+  - longest common subsequence
+  - vigenere cipher
+  - shell sort
+  - fft
+  - DFS, BFS
+  - dijkstras
+  - prim/kruskal
+  - binary search
+  - mergesort
+  - min cut
+  - permutations
+  - random walk
+  - kager's algo (monte carlo)
+
+  Data structures:
+  - trie
+  - red black tree
+  - quad tree
+  - btree
+  - queue
+  - AVL trees
