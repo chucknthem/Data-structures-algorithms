@@ -21,6 +21,7 @@ Includes:
   - Stack. C
 
   Misc
+  - Addition implemented in bit operations.
   - n-base conversion. C
   - Directory path expansion. Ruby
   
