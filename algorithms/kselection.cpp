@@ -1,5 +1,5 @@
 /**
- * This algorithm uses a quicksort like partitioning to find the k biggest 
+ * This algorithm uses a quicksort like partitioning to find the k biggest
  * elements in an array.
  *
  * Expected runtime O(n + klog(k))
@@ -17,6 +17,7 @@ void printArray(int *array, int l, int r) {
 int selectPivotIndex (int *array, int l, int r) {
   return (l+ r)/2;
 }
+
 void swap(int *x, int *y) {
   int t = *x;
   *x = *y;
@@ -56,7 +57,6 @@ void kselect (int *array, int len, int k) {
   return kselect_(array, 0, len - 1, k);
 }
 
-
 int main(int argc, char**argv) {
 	int *array = (int *) malloc(sizeof(int)*8);
 	array[3] = 58;
@@ -72,3 +72,4 @@ int main(int argc, char**argv) {
 	printArray(array, 0, 7);
 	return 0;
 }
+

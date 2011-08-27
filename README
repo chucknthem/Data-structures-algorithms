@@ -43,6 +43,7 @@ TODO:
   - permutations
   - random walk
   - kager's algo (monte carlo)
+  - Missing algos from here http://www.scriptol.com/programming/list-algorithms.php
 
   Data structures:
   - trie
