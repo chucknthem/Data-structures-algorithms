@@ -10,7 +10,9 @@ Includes:
   - Hamming distance. Ruby
   - Largest k elements selection. C++
   - Prime Sieve. C
-  - Quicksort. C, js
+  - Sorting:
+    - Quicksort. C, js
+    - Mergesort. js
   - Selection sort. C
   - sorted Grid Find. Ruby
 
