@@ -21,6 +21,7 @@ Includes:
   - linked list. C
   - Skiplist. Go
   - Stack. C
+  - binary search tree. C
 
   Misc
   - Addition implemented in bit operations.
