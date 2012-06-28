@@ -8,7 +8,7 @@ Includes:
   - Burrow-Wheeler transform. Ruby
   - Edit distance. Python
   - Hamming distance. Ruby
-  - Largest k elements selection. C++
+  - Largest k elements selection (kselect). C++,js
   - Prime Sieve. C
   - Sorting:
     - Quicksort. C, js
