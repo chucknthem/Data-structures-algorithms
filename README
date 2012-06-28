@@ -14,14 +14,16 @@ Includes:
     - Quicksort. C, js
     - Mergesort. js
   - Selection sort. C
-  - sorted Grid Find. Ruby
+  - Searching 
+    - Sorted Grid Find. Ruby
+    - Binary search. js
 
   Data structures
-  - bloomfilter. C++
-  - linked list. C
+  - Bloomfilter. C++
+  - Linked list. C
   - Skiplist. Go
   - Stack. C
-  - binary search tree. C
+  - Binary search tree. C
 
   Misc
   - Addition implemented in bit operations.
@@ -40,7 +42,6 @@ TODO:
   - DFS, BFS
   - dijkstras
   - prim/kruskal
-  - binary search
   - mergesort
   - min cut
   - permutations
