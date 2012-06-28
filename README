@@ -17,6 +17,7 @@ Includes:
   - Searching 
     - Sorted Grid Find. Ruby
     - Binary search. js
+  - String to integer (atoi). C
 
   Data structures
   - Bloomfilter. C++
