@@ -7,6 +7,8 @@ Includes:
   - Average image hash. Ruby
   - Burrow-Wheeler transform. Ruby
   - Edit distance. Python
+  - Geometry
+    - Rectangle intersection. js
   - Hamming distance. Ruby
   - Largest k elements selection (kselect). C++,js
   - Prime Sieve. C
