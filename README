@@ -6,6 +6,8 @@ Includes:
   Algorithms
   - Average image hash. Ruby
   - Burrow-Wheeler transform. Ruby
+  - Dynamic Programming
+    - Coin sum. js
   - Edit distance. Python
   - Geometry
     - Rectangle intersection. js
