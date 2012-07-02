@@ -8,6 +8,7 @@ Includes:
   - Burrow-Wheeler transform. Ruby
   - Dynamic Programming
     - Coin sum. js
+    - Longest non-decreasing sequence. js
   - Edit distance. Python
   - Geometry
     - Rectangle intersection. js
